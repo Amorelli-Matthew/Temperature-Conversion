@@ -20,7 +20,7 @@ go to the inclass1/bin/Release/ where the Application is located.
 In the current directory, run `msbuild TemperatureConversion.sln /t:Clean`
 
 # License
-This project is licensed under GPGLV3
+This project is licensed under GPLV3. See `LICENSE` for details.
 
 ## Credits
 This project uses technologies licensed by Microsoft Corporation:
