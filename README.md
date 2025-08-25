@@ -12,12 +12,12 @@ Make sure the .NET Framework version 4.7.2 is installed(check the box when insta
 ### To Compile
 Open Developer Command Prompted for Visual Studio
 go into the project directory(Something like `C:\Users\YourUsername\source\repos\Project`)
-Then run: `msbuild inclass1.sln /p:Configuration=Release`
+Then run: `msbuild TemperatureConversion.sln /p:Configuration=Release`
 ### To Run
 go to the inclass1/bin/Release/ where the Application is located.
 
 ### To Clean Build Files
-In the current directory, run `msbuild inclass1.sln /t:Clean`
+In the current directory, run `msbuild TemperatureConversion.sln /t:Clean`
 
 # License
 This project is licensed under GPGLV3
