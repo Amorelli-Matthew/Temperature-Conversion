@@ -1,7 +1,7 @@
 # Temperature Conversion
 
 ### Description
-This project is a Windows Forms application that converts temperatures between Celsius and Fahrenheit. The user can input a value and choose whether to convert it to the other scale using buttons on the form. It was written as a simple exercise, but also dedicated to fixing the functionality of an older family temperature clock.
+This project is a Windows Forms application that converts temperatures between Celsius and Fahrenheit. The user can input a value and choose whether to convert it to the other scale using buttons on the form.
 
 ### Prerequisites To Compile
 Windows 10 [Windows 11 Recommended]
